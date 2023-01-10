@@ -7,6 +7,11 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## 1.0.4
+Removed building mods until we can find the incompatibility.
+Will push an update to address this tomorrow.
+Patches between now and 1.0.0 are broken.
+
 ## 1.0.3
 Removed:
 * aedenthorn_mods-CraftFromContainers-3.0.0
