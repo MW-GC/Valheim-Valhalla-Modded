@@ -7,6 +7,15 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## 1.0.3
+Removed:
+* aedenthorn_mods-CraftFromContainers-3.0.0
+  - Incompatibility
+
+Added:
+* OdinPlus-OdinsCraftyBoxes-1.0.8
+  - Replacing aedenthorn_mods-CraftFromContainers-3.0.0
+
 ## 1.0.2
 Removed:
 * NotMyMod-ValheimRAFTWithAssets-1.4.7 <- Sorry Kain
