@@ -1,6 +1,6 @@
 {
 	"name": "MWG_Valhalla",
-	"version_number": "1.0.1",
+	"version_number": "1.0.2",
 	"website_url": "https://mw-gc.com",
 	"description": "For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc",
 	"dependencies": [
@@ -80,7 +80,6 @@
 		"WackyMole-WackyEpicMMOSystem-1.5.3",
 		"MrSerji-Construction-0.2.5",
 		"BentoG-MissingPieces-2.0.0",
-		"NotMyMod-ValheimRAFTWithAssets-1.4.7",
 		"ontrigger-ValheimPerformanceOptimizations-0.7.6",
 		"OdinPlus-Bamboozled-1.0.14",
 		"The_Bees_Decree-Distant_Dynasties-1.1.11",
