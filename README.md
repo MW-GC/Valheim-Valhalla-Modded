@@ -1,3 +1,38 @@
-#Thank you for visiting!
+# MWG Valhalla
+![Discord](https://img.shields.io/discord/539569894749110300?label=Discord&logo=Discord&style=plastic)
+![Server](https://status.mw-gc.com/api/badge/2/uptime/24?label=Server&labelSuffix=&prefix=Uptime=&suffix=%)
+<hr>
+Thank you for checking out our source repo.
+This is where updates will be staged, and betas will be tested.
 
-Description Pending
+If you have any issues, suggestions, etc, please let us know!
+
+
+## 1.0.1 (Beta)
+Updated:
+
+* HugotheDwarf-Shapekeys_and_More-2.1.1
+* HugotheDwarf-More_and_Modified_Player_Cloth_Colliders-3.1.0
+* HugotheDwarf-Hugos_Armory-8.2.0
+* robclancy-Bigger_Chests-1.0.2
+
+Added:
+
+* FixItFelix-RegenerativeNature-1.2.3
+* projjm-Player_Trading-1.2.2
+* OdinPlus-TombStoneExtender-1.0.1
+* WackyMole-WackyEpicMMOSystem-1.5.3
+* MrSerji-Construction-0.2.5 <- Requested by "The Midget"
+* BentoG-MissingPieces-2.0.0 <- Requested by "The Midget"
+* NotMyMod-ValheimRAFTWithAssets-1.4.7 <- Requested by Kain
+* ontrigger-ValheimPerformanceOptimizations-0.7.6
+* OdinPlus-Bamboozled-1.0.14 <- Requested by "The Midget"
+* The_Bees_Decree-Distant_Dynasties-1.1.11 <- Requested by "The Midget"
+* CookieMilk-BuildPieces-1.1.5 <- Requested by "The Midget"
+* OdinPlus-BuildIt-1.6.3
+* OdinPlus-OdinsQOL-0.9.6
+* remmiz-SimpleRecycling_Fixed-0.0.15
+* dannypacquiao-Valweed-0.3.4
+
+## 1.0.0 (Release)
+Initial Release
