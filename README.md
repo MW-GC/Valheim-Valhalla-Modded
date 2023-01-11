@@ -11,7 +11,7 @@ If you have any issues, suggestions, etc, please let us know!
 This update aims to restore most of the additions brought in by 1.0.1, while fixing the issues it also caused.
 I've included two sets of patchnotes below for the overall change from 1.0.1 to this version, and the previous version to this version to make it easier to understand.
 
-# 1.0.1 ▲ 1.0.5 (Since 1.0.4 was a revert to before 1.0.1)
+### 1.0.1 ▲ 1.0.5 (Since 1.0.4 was a revert to before 1.0.1)
 Removed:
 * BetterArchery
   - Causing UI issues in testing
@@ -20,7 +20,7 @@ Removed:
 * projjm-Player_Trading-1.2.2
   - Outdated mod, casuing connectivity issues
 
-# 1.0.4 ▲ 1.0.5
+### 1.0.4 ▲ 1.0.5
 Added:
 * FixItFelix-RegenerativeNature-1.2.3
 * WackyMole-WackyEpicMMOSystem-1.5.3
