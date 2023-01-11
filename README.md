@@ -7,6 +7,11 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## 1.0.6
+Removed:
+* BetterArchery
+  - Didn't wanna die 
+
 ## 1.0.5
 This update aims to restore most of the additions brought in by 1.0.1, while fixing the issues it also caused.
 I've included two sets of patchnotes below for the overall change from 1.0.1 to this version, and the previous version to this version to make it easier to understand.
