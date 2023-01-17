@@ -7,7 +7,7 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
-## [BETA] 1.0.7.1
+## [BETA] 1.0.8
 
 Added:
 * thedefside-jtv_biomes-0.0.2
