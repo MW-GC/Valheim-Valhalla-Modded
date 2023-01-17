@@ -2,6 +2,7 @@ name: Publish Mod
 
 # Run when a new release is... released
 on: 
+  workflow_dispatch:
   release:
     types: [published]
 
@@ -14,8 +15,8 @@ jobs:
       - uses: GreenTF/upload-thunderstore-package@v3.1
         with:
           namespace: MWG # the thunderstore 'team' to publish under
-          description: Beta version of Morningwood Gaming Valhalla Modded. Used only for testing! 
-          token: ${{ secrets.YOUR_TOKEN_NAME }}
+          description: For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc
+          token: ${{ secrets.Thunderstore_Token }}
           name: MWG-MWG_Valhalla # the name of the package
-          version: $GITHUB_REF_NAME # Use the tag as the package version
-          community: Valheim
+          version: ${{  github.ref_name }} # Use the tag as the package version
+          community: valheim
