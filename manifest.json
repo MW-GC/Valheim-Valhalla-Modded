@@ -1,6 +1,6 @@
 {
 	"name": "MWG_Valhalla",
-	"version_number": "1.0.9",
+	"version_number": "1.0.10",
 	"website_url": "https://mw-gc.com",
 	"description": "For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc",
 	"dependencies": [
@@ -89,8 +89,10 @@
 		"GoldenJude-Blacksmiths_tools-2.0.2",
 		"Fantu-Sages_Vault-1.1.4",
 		"thedefside-jtv_biomes-0.0.2",
-		"MixoneFinallyHere-BuildExpansion-1.0.8",
 		"MonsterLabZ-MonsterLabZ-2.9.3",
-		"AeehyehssReeper-ChaosArmor-10.5.1"
+		"AeehyehssReeper-ChaosArmor-10.5.1",
+		"JereKuusela-Server_devcommands-1.41.0",
+		"JereKuusela-Upgrade_World-1.30.0",
+		"ComfyMods-SearsCatalog-1.0.0"
 	]
 }

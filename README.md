@@ -7,6 +7,20 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## 1.0.10
+
+Added:
+* ComfyMods-SearsCatalog-1.0.0
+  - Fix #4
+* JereKuusela-Upgrade_World-1.30.0
+  - Server utility
+* JereKuusela-Server_devcommands-1.41.0
+  - Dependency to above
+
+Removed:
+* MixoneFinallyHere-BuildExpansion-1.0.8
+  - Fix #4
+
 ## 1.0.9
 
 Added:
