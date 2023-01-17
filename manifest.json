@@ -1,8 +1,8 @@
 {
-	"name": "MWG_Valhalla",
-	"version_number": "1.0.6",
+	"name": "MWG_Valhalla_Beta",
+	"version_number": "1.0.7",
 	"website_url": "https://mw-gc.com",
-	"description": "For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc",
+	"description": "Beta version of Morningwood Gaming Valhalla Modded. Used only for testing!",
 	"dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.1901",
 		"dannypacquiao-Valweed-0.3.4",
@@ -84,6 +84,9 @@
 		"CookieMilk-BuildPieces-1.1.5",
 		"OdinPlus-BuildIt-1.6.3",
 		"MrSerji-Construction-0.2.5",
-		"BentoG-MissingPieces-2.0.0"
+		"BentoG-MissingPieces-2.0.0",
+		"GoldenJude-Judes_Equipment-2.2.3",
+		"GoldenJude-Blacksmiths_tools-2.0.2",
+		"Fantu-Sages_Vault-1.1.4"
 	]
 }

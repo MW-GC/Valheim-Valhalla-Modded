@@ -1,4 +1,4 @@
-# MWG Valhalla
+# MWG Valhalla [BETA BRANCH]
 ![Discord](https://img.shields.io/discord/539569894749110300?label=Discord&logo=Discord&style=plastic)
 ![Server](https://status.mw-gc.com/api/badge/2/uptime/24?label=Server&labelSuffix=&prefix=Uptime=&suffix=%)
 <hr>
@@ -6,6 +6,13 @@ Thank you for checking out our source repo.
 This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
+
+## [BETA] 1.0.7
+Added:
+* Fantu-Sages_Vault-1.1.4
+* GoldenJude-Blacksmiths_tools-2.0.2
+* GoldenJude-Judes_Equipment-2.2.3
+  - By request of Neon
 
 ## 1.0.6
 Removed:
