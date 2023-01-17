@@ -7,6 +7,36 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## 1.0.8
+
+Added:
+* thedefside-jtv_biomes-0.0.2
+  - By request of Neon/Minus
+* MixoneFinallyHere-BuildExpansion-1.0.8
+  - Fix missing build pieces in menu
+* Fantu-Sages_Vault-1.1.4
+* GoldenJude-Blacksmiths_tools-2.0.2
+* GoldenJude-Judes_Equipment-2.2.3
+  - By request of Neon
+
+Updated:
+* TastyChickenLeg-AutomaticFuel-1.2.0
+* ASharpPen-Spawn_That-1.2.2
+* Smoothbrain-DualWield-1.0.6
+* OdinPlus-TheFarmer-0.1.2
+* MSchmoecker-HammerTime-0.3.3
+* OdinPlus-OdinsSteelworks-0.1.8
+* OdinPlus-OdinShip-0.2.3
+* WackyMole-WackyEpicMMOSystem-1.5.5
+* OdinPlus-Bamboozled-1.0.15
+* Smoothbrain-Building-1.2.3
+* KGvalheim-Marketplace_And_Server_NPCs_Revamped-8.2.5
+* Smoothbrain-Jewelcrafting-1.3.20
+* Smoothbrain-Blacksmithing-1.2.2
+* Frenvius-Valharvest-3.0.1
+* HugotheDwarf-Hugos_Armory-8.2.1
+* ValheimModding-Jotunn-2.10.3
+
 ## 1.0.6
 Removed:
 * BetterArchery
