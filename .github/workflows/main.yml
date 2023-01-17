@@ -18,5 +18,5 @@ jobs:
           description: Beta version of Morningwood Gaming Valhalla Modded. Used only for testing! 
           token: ${{ secrets.YOUR_TOKEN_NAME }}
           name: MWG-MWG_Valhalla # the name of the package
-          version: $GITHUB_REF_NAME # Use the tag as the package version
+          version: ${{  github.ref_name }} # Use the tag as the package version
           community: Valheim
