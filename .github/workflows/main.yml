@@ -16,7 +16,7 @@ jobs:
         with:
           namespace: MWG # the thunderstore 'team' to publish under
           description: For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc
-          token: ${{ secrets.YOUR_TOKEN_NAME }}
+          token: ${{ secrets.Thunderstore_Token }}
           name: MWG-MWG_Valhalla # the name of the package
           version: ${{  github.ref_name }} # Use the tag as the package version
           community: Valheim
