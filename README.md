@@ -7,6 +7,14 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## 1.0.9
+
+Added:
+* MonsterLabZ-MonsterLabZ-2.9.3
+  - By request of Neon
+* AeehyehssReeper-ChaosArmor-10.5.1
+  - By request of Kain
+
 ## 1.0.8
 
 Added:
