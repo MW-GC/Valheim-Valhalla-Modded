@@ -11,7 +11,7 @@ If you have any issues, suggestions, etc, please let us know!
 
 Added:
 * ComfyMods-SearsCatalog-1.0.0
-  - Fix #4
+  - Fix https://github.com/MW-GC/Valheim-Valhalla-Modded/issues/4
 * JereKuusela-Upgrade_World-1.30.0
   - Server utility
 * JereKuusela-Server_devcommands-1.41.0
@@ -19,7 +19,7 @@ Added:
 
 Removed:
 * MixoneFinallyHere-BuildExpansion-1.0.8
-  - Fix #4
+  - Fix https://github.com/MW-GC/Valheim-Valhalla-Modded/issues/4
 
 ## 1.0.9
 
