@@ -1,4 +1,4 @@
-# MWG Valhalla
+# MWG Valhalla [BETA BRANCH]
 ![Discord](https://img.shields.io/discord/539569894749110300?label=Discord&logo=Discord&style=plastic)
 ![Server](https://status.mw-gc.com/api/badge/2/uptime/24?label=Server&labelSuffix=&prefix=Uptime=&suffix=%)
 <hr>
