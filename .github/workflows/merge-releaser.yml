@@ -35,3 +35,13 @@ jobs:
           draft: false
           prerelease: false
           body: ${{ steps.extract-release-notes.outputs.release_notes }}
+      - name: Publish
+      - uses: actions/checkout@v3
+      - uses: GreenTF/upload-thunderstore-package@v3.1
+        with:
+          namespace: MWG # the thunderstore 'team' to publish under
+          description: For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc
+          token: ${{ secrets.Thunderstore_Token }}
+          name: MWG-MWG_Valhalla # the name of the package
+          version: ${{steps.version.outputs.prop}} # Use the tag as the package version
+          community: valheim
