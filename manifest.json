@@ -1,8 +1,8 @@
 {
-	"name": "MWG_Valhalla_Beta",
+	"name": "MWG_Valhalla",
 	"version_number": "1.0.11",
 	"website_url": "https://mw-gc.com",
-	"description": "For testing use only! Please download the main branch if you're looking to connect to the server.",
+	"description": "For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc",
 	"dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.1901",
 		"dannypacquiao-Valweed-0.3.4",
