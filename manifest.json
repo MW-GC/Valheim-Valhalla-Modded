@@ -1,8 +1,8 @@
 {
-	"name": "MWG_Valhalla",
-	"version_number": "1.0.10",
+	"name": "MWG_Valhalla_beta",
+	"version_number": "1.0.11",
 	"website_url": "https://mw-gc.com",
-	"description": "For use on the Morningwood Gaming Valhalla Modded server. Come join us in https://discord.gg/mw-gc",
+	"description": "For testing use only! Please download the main branch if you're looking to connect to the server.",
 	"dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.1901",
 		"dannypacquiao-Valweed-0.3.4",
@@ -93,6 +93,10 @@
 		"AeehyehssReeper-ChaosArmor-10.5.1",
 		"JereKuusela-Server_devcommands-1.41.0",
 		"JereKuusela-Upgrade_World-1.30.0",
-		"ComfyMods-SearsCatalog-1.0.0"
+		"ComfyMods-SearsCatalog-1.0.0",
+		"OdinPlus-RunicPack-1.1.6",
+		"Smoothbrain-CreatureLevelAndLootControl-4.5.2",
+		"Smoothbrain-ComfortTweaks-3.1.9",
+		"Crystal-BetterChat-1.4.4"
 	]
 }

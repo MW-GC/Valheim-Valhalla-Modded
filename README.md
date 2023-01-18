@@ -7,6 +7,14 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
+## [BETA] 1.0.11
+
+Added:
+* OdinPlus-RunicPack-1.1.6
+* Smoothbrain-CreatureLevelAndLootControl-4.5.2
+* Smoothbrain-ComfortTweaks-3.1.9
+* Crystal-BetterChat-1.4.4
+
 ## 1.0.10
 
 Added:
