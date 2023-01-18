@@ -7,18 +7,20 @@ This is where updates will be staged, and betas will be tested.
 
 If you have any issues, suggestions, etc, please let us know!
 
-## 1.0.11
+# CHANGELOG
 
-Added:
+## [1.0.11]
+
+### Added:
 * OdinPlus-RunicPack-1.1.6
 * Smoothbrain-CreatureLevelAndLootControl-4.5.2
 * Smoothbrain-ComfortTweaks-3.1.9
 * Crystal-BetterChat-1.4.4
 Improved release workflow
 
-## 1.0.10
+## [1.0.10]
 
-Added:
+### Added:
 * ComfyMods-SearsCatalog-1.0.0
   - Fix https://github.com/MW-GC/Valheim-Valhalla-Modded/issues/4
 * JereKuusela-Upgrade_World-1.30.0
@@ -26,21 +28,21 @@ Added:
 * JereKuusela-Server_devcommands-1.41.0
   - Dependency to above
 
-Removed:
+### Removed:
 * MixoneFinallyHere-BuildExpansion-1.0.8
   - Fix https://github.com/MW-GC/Valheim-Valhalla-Modded/issues/4
 
-## 1.0.9
+## [1.0.9]
 
-Added:
+### Added:
 * MonsterLabZ-MonsterLabZ-2.9.3
   - By request of Neon
 * AeehyehssReeper-ChaosArmor-10.5.1
   - By request of Kain
 
-## 1.0.8
+## [1.0.8]
 
-Added:
+### Added:
 * thedefside-jtv_biomes-0.0.2
   - By request of Neon/Minus
 * MixoneFinallyHere-BuildExpansion-1.0.8
@@ -50,7 +52,7 @@ Added:
 * GoldenJude-Judes_Equipment-2.2.3
   - By request of Neon
 
-Updated:
+### Updated:
 * TastyChickenLeg-AutomaticFuel-1.2.0
 * ASharpPen-Spawn_That-1.2.2
 * Smoothbrain-DualWield-1.0.6
@@ -68,17 +70,17 @@ Updated:
 * HugotheDwarf-Hugos_Armory-8.2.1
 * ValheimModding-Jotunn-2.10.3
 
-## 1.0.6
-Removed:
+## [1.0.6]
+### Removed:
 * BetterArchery
   - Didn't wanna die 
 
-## 1.0.5
+## [1.0.5]
 This update aims to restore most of the additions brought in by 1.0.1, while fixing the issues it also caused.
 I've included two sets of patchnotes below for the overall change from 1.0.1 to this version, and the previous version to this version to make it easier to understand.
 
-### 1.0.1 ▲ 1.0.5 (Since 1.0.4 was a revert to before 1.0.1)
-Removed:
+### [1.0.1] ▲ [1.0.5] (Since 1.0.4 was a revert to before 1.0.1)
+#### Removed:
 * BetterArchery
   - Causing UI issues in testing
 * OdinPlus-TombStoneExtender-1.0.1
@@ -86,8 +88,8 @@ Removed:
 * projjm-Player_Trading-1.2.2
   - Outdated mod, casuing connectivity issues
 
-### 1.0.4 ▲ 1.0.5
-Added:
+### [1.0.4] ▲ [1.0.5]
+#### Added:
 * FixItFelix-RegenerativeNature-1.2.3
 * WackyMole-WackyEpicMMOSystem-1.5.3
 * MrSerji-Construction-0.2.5 <- Requested by "The Midget"
@@ -102,38 +104,36 @@ Added:
 * remmiz-SimpleRecycling_Fixed-0.0.15
 * dannypacquiao-Valweed-0.3.4
 
-Removed:
+#### Removed:
 * BetterArchery
   - Causing UI issues in testing
 
-## 1.0.4
-Removed building mods until we can find the incompatibility.
-Will push an update to address this tomorrow.
-Patches between now and 1.0.0 are broken.
+## [1.0.4]
+### Removed building mods until we can find the incompatibility.
+* Will push an update to address this tomorrow.
+* Patches between now and 1.0.0 are broken.
 
-## 1.0.3
-Removed:
+## [1.0.3]
+### Removed:
 * aedenthorn_mods-CraftFromContainers-3.0.0
   - Incompatibility
 
-Added:
+### Added:
 * OdinPlus-OdinsCraftyBoxes-1.0.8
   - Replacing aedenthorn_mods-CraftFromContainers-3.0.0
 
-## 1.0.2
-Removed:
+## [1.0.2]
+### Removed:
 * NotMyMod-ValheimRAFTWithAssets-1.4.7 <- Sorry Kain
 
 ## 1.0.1
-Updated:
-
+### Updated:
 * HugotheDwarf-Shapekeys_and_More-2.1.1
 * HugotheDwarf-More_and_Modified_Player_Cloth_Colliders-3.1.0
 * HugotheDwarf-Hugos_Armory-8.2.0
 * robclancy-Bigger_Chests-1.0.2
 
-Added:
-
+###Added:
 * FixItFelix-RegenerativeNature-1.2.3
 * projjm-Player_Trading-1.2.2
 * OdinPlus-TombStoneExtender-1.0.1
