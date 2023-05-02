@@ -9,6 +9,10 @@ If you have any issues, suggestions, etc, please let us know!
 
 # CHANGELOG
 
+## [1.2.0]
+### Updated:
+* Updated **ALL THE MODS**
+
 ## [1.0.11]
 
 ### Added:
